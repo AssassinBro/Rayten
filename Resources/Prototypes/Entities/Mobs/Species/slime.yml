@@ -116,6 +116,7 @@
           32:
             sprite: Mobs/Species/Human/displacement.rsi
             state: jumpsuit-female
+  - type: Geras
 
 - type: entity
   parent: MobHumanDummy

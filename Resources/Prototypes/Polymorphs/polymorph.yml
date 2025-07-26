@@ -246,3 +246,14 @@
     exitPolymorphSound: /Audio/Magic/ethereal_exit.ogg
     duration: 120
     effectProto: EffectDesynchronizer
+
+- type: polymorph
+  id: SlimeMorphGeras
+  configuration:
+    entity: MobSlimesGeras
+    transferName: true
+    transferHumanoidAppearance: false
+    inventory: Drop
+    transferDamage: true
+    revertOnDeath: true
+    revertOnCrit: true
