@@ -452,6 +452,6 @@
         sprite: Mobs/Aliens/slimes.rsi
         state: blue_adult_slime
     - type: ConfirmableAction
-      popup: gera-transformation-popup
+      popup: geras-transformation-popup
     - type: InstantAction
       event: !type:MorphIntoGeras
