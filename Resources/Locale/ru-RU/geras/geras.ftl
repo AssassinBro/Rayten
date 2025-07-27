@@ -5,3 +5,4 @@ ent-MobSlimesGeras = Герас
 geras-popup-morph-message-user = Ты превращаешься в гераса!
 geras-popup-morph-message-others = {entity} превращается в гераса!
 geras-popup-cant-use = Я не могу этого сделать
+geras-transformation-popup = Вы потеряете свои вещи при превращении в гераса. Для подтверждения выполните его еще раз
