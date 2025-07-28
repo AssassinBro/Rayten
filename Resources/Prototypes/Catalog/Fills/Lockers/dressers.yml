@@ -100,6 +100,7 @@
       - id: ClothingOuterWinterRD
       - id: ClothingOuterCoatRD
       - id: ClothingNeckCloakRd
+      - id: ClothingNeckCloakClassicRD    
 
 - type: entity
   id: DresserWardenFilled
